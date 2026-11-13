@@ -22,3 +22,4 @@ Icon
 *.sln
 *.sw?
 
+./node_modules
